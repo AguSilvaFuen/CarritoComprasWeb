@@ -21,8 +21,4 @@
         </data>
     </configuration>
 </project>
-<properties>
-  <sonar.projectKey>AguSilvaFuen_CarritoComprasWeb</sonar.projectKey>
-  <sonar.organization>agusilvafuen</sonar.organization>
-  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-</properties>
+
